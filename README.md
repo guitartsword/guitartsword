@@ -1,3 +1,15 @@
+# Le Me
+## What I know?
+* Clean Code
+* React with:
+  - hooks
+  - graphql
+  - Typescript
+* Angular
+* Vue
+* Node with GraphQL(express) and Typescript
+* Git, Azure, Google Cloud, Digital Ocean, Docker 
+
 ### Hi there 👋
 
 <!--
