@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi! I want you to know that [you can reach me whenever you want](https://linktr.ee/guitart). I really like team work and teaching, this is because get satisfaction helping someone as well as reaching a goal with someone. I really like to learn new things and try out new languages, frameworks or tools.
+Hi! I want you to know that [you can reach me whenever you want](https://linktr.ee/guitart). I really like team work and teaching, this is because I get satisfaction from  helping someone as well as reaching a goal with someone. I really like to learn new things and try out new languages, frameworks or tools.
 
 ## What I know?
 I know a lot of things! I'll try to list them all. The list has an order and some visual cues. The order is from what I worked more and therefore know better to what I have less experience. If the item is bold, then it means is something I consider important.
